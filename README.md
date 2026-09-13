@@ -230,7 +230,7 @@ This repository may contain:
 
 **FLORN** — https://florn.ai  
 **CCAI** — https://ccai.foundation  
-**Contact** — contact@florn.dev
+**Contact** — contact@florn.ai
 
 ---
 
